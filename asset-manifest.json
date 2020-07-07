@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/idook.github.io/static/css/main.97bb5273.chunk.css",
-    "main.js": "/idook.github.io/static/js/main.f66c15fa.chunk.js",
-    "main.js.map": "/idook.github.io/static/js/main.f66c15fa.chunk.js.map",
+    "main.css": "/idook.github.io/static/css/main.06594ac6.chunk.css",
+    "main.js": "/idook.github.io/static/js/main.fe5bf3db.chunk.js",
+    "main.js.map": "/idook.github.io/static/js/main.fe5bf3db.chunk.js.map",
     "runtime-main.js": "/idook.github.io/static/js/runtime-main.34b21e0a.js",
     "runtime-main.js.map": "/idook.github.io/static/js/runtime-main.34b21e0a.js.map",
     "static/css/2.5a510433.chunk.css": "/idook.github.io/static/css/2.5a510433.chunk.css",
-    "static/js/2.07145065.chunk.js": "/idook.github.io/static/js/2.07145065.chunk.js",
-    "static/js/2.07145065.chunk.js.map": "/idook.github.io/static/js/2.07145065.chunk.js.map",
+    "static/js/2.a65de19c.chunk.js": "/idook.github.io/static/js/2.a65de19c.chunk.js",
+    "static/js/2.a65de19c.chunk.js.map": "/idook.github.io/static/js/2.a65de19c.chunk.js.map",
     "index.html": "/idook.github.io/index.html",
-    "precache-manifest.e52958e0ca4198fba192b57515f1ad02.js": "/idook.github.io/precache-manifest.e52958e0ca4198fba192b57515f1ad02.js",
+    "precache-manifest.108057fdc0fbbe87d3d1d627de7f3b2f.js": "/idook.github.io/precache-manifest.108057fdc0fbbe87d3d1d627de7f3b2f.js",
     "service-worker.js": "/idook.github.io/service-worker.js",
     "static/css/2.5a510433.chunk.css.map": "/idook.github.io/static/css/2.5a510433.chunk.css.map",
-    "static/css/main.97bb5273.chunk.css.map": "/idook.github.io/static/css/main.97bb5273.chunk.css.map",
-    "static/js/2.07145065.chunk.js.LICENSE.txt": "/idook.github.io/static/js/2.07145065.chunk.js.LICENSE.txt",
+    "static/css/main.06594ac6.chunk.css.map": "/idook.github.io/static/css/main.06594ac6.chunk.css.map",
+    "static/js/2.a65de19c.chunk.js.LICENSE.txt": "/idook.github.io/static/js/2.a65de19c.chunk.js.LICENSE.txt",
     "static/media/aprendizagem-online.png": "/idook.github.io/static/media/aprendizagem-online.2f75e9b2.png",
     "static/media/bilhetes.png": "/idook.github.io/static/media/bilhetes.34cbd587.png",
     "static/media/consulting.png": "/idook.github.io/static/media/consulting.506058b3.png",
@@ -26,19 +26,17 @@
     "static/media/modelo-idook.csv": "/idook.github.io/static/media/modelo-idook.af00d40d.csv",
     "static/media/movie.mp4": "/idook.github.io/static/media/movie.5e565bf7.mp4",
     "static/media/result.png": "/idook.github.io/static/media/result.993d9406.png",
-    "static/media/security.png": "/idook.github.io/static/media/security.3c9fb133.png",
     "static/media/seguranca.png": "/idook.github.io/static/media/seguranca.b33f5eef.png",
     "static/media/sindpd.png": "/idook.github.io/static/media/sindpd.1c8dab21.png",
     "static/media/sistema-de-gerenciamento-de-conteudo.png": "/idook.github.io/static/media/sistema-de-gerenciamento-de-conteudo.02962b4d.png",
     "static/media/smartphone.png": "/idook.github.io/static/media/smartphone.ec90bcd5.png",
-    "static/media/team.png": "/idook.github.io/static/media/team.cd710b8d.png",
     "static/media/tourism.png": "/idook.github.io/static/media/tourism.a97bc264.png"
   },
   "entrypoints": [
     "static/js/runtime-main.34b21e0a.js",
     "static/css/2.5a510433.chunk.css",
-    "static/js/2.07145065.chunk.js",
-    "static/css/main.97bb5273.chunk.css",
-    "static/js/main.f66c15fa.chunk.js"
+    "static/js/2.a65de19c.chunk.js",
+    "static/css/main.06594ac6.chunk.css",
+    "static/js/main.fe5bf3db.chunk.js"
   ]
 }
