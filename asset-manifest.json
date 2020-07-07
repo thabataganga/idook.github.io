@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/idook.github.io/static/css/main.7d46c3de.chunk.css",
-    "main.js": "/idook.github.io/static/js/main.6bd3e1f6.chunk.js",
-    "main.js.map": "/idook.github.io/static/js/main.6bd3e1f6.chunk.js.map",
+    "main.js": "/idook.github.io/static/js/main.54b35467.chunk.js",
+    "main.js.map": "/idook.github.io/static/js/main.54b35467.chunk.js.map",
     "runtime-main.js": "/idook.github.io/static/js/runtime-main.34b21e0a.js",
     "runtime-main.js.map": "/idook.github.io/static/js/runtime-main.34b21e0a.js.map",
     "static/css/2.5a510433.chunk.css": "/idook.github.io/static/css/2.5a510433.chunk.css",
     "static/js/2.0c86b6da.chunk.js": "/idook.github.io/static/js/2.0c86b6da.chunk.js",
     "static/js/2.0c86b6da.chunk.js.map": "/idook.github.io/static/js/2.0c86b6da.chunk.js.map",
     "index.html": "/idook.github.io/index.html",
-    "precache-manifest.1cc5cb331bdb17c99d2b08ed7c827f81.js": "/idook.github.io/precache-manifest.1cc5cb331bdb17c99d2b08ed7c827f81.js",
+    "precache-manifest.5e55887303afd0ab3e69109b35f1e081.js": "/idook.github.io/precache-manifest.5e55887303afd0ab3e69109b35f1e081.js",
     "service-worker.js": "/idook.github.io/service-worker.js",
     "static/css/2.5a510433.chunk.css.map": "/idook.github.io/static/css/2.5a510433.chunk.css.map",
     "static/css/main.7d46c3de.chunk.css.map": "/idook.github.io/static/css/main.7d46c3de.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.5a510433.chunk.css",
     "static/js/2.0c86b6da.chunk.js",
     "static/css/main.7d46c3de.chunk.css",
-    "static/js/main.6bd3e1f6.chunk.js"
+    "static/js/main.54b35467.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "306faccf40bc0028dcc4ef302027c0dc",
+    "revision": "573fdf2afa1ec0d866250840453f9441",
     "url": "/idook.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/idook.github.io/static/css/2.5a510433.chunk.css"
   },
   {
-    "revision": "201db0711222145eb7f3",
+    "revision": "dd6f127572ccd6d9883b",
     "url": "/idook.github.io/static/css/main.7d46c3de.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/idook.github.io/static/js/2.0c86b6da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "201db0711222145eb7f3",
-    "url": "/idook.github.io/static/js/main.6bd3e1f6.chunk.js"
+    "revision": "dd6f127572ccd6d9883b",
+    "url": "/idook.github.io/static/js/main.54b35467.chunk.js"
   },
   {
     "revision": "793859c79b3724173cc3",
