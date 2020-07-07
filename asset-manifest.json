@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/thabataganga/idook.github.io/static/css/main.06594ac6.chunk.css",
-    "main.js": "/thabataganga/idook.github.io/static/js/main.09262c89.chunk.js",
-    "main.js.map": "/thabataganga/idook.github.io/static/js/main.09262c89.chunk.js.map",
+    "main.js": "/thabataganga/idook.github.io/static/js/main.da6518a2.chunk.js",
+    "main.js.map": "/thabataganga/idook.github.io/static/js/main.da6518a2.chunk.js.map",
     "runtime-main.js": "/thabataganga/idook.github.io/static/js/runtime-main.ec21f395.js",
     "runtime-main.js.map": "/thabataganga/idook.github.io/static/js/runtime-main.ec21f395.js.map",
     "static/css/2.5a510433.chunk.css": "/thabataganga/idook.github.io/static/css/2.5a510433.chunk.css",
-    "static/js/2.15b71d1f.chunk.js": "/thabataganga/idook.github.io/static/js/2.15b71d1f.chunk.js",
-    "static/js/2.15b71d1f.chunk.js.map": "/thabataganga/idook.github.io/static/js/2.15b71d1f.chunk.js.map",
+    "static/js/2.930de5cf.chunk.js": "/thabataganga/idook.github.io/static/js/2.930de5cf.chunk.js",
+    "static/js/2.930de5cf.chunk.js.map": "/thabataganga/idook.github.io/static/js/2.930de5cf.chunk.js.map",
     "index.html": "/thabataganga/idook.github.io/index.html",
-    "precache-manifest.c55d01735d6879474ce4973cddd2cef6.js": "/thabataganga/idook.github.io/precache-manifest.c55d01735d6879474ce4973cddd2cef6.js",
+    "precache-manifest.257d9ffc1c6ccf1e25127aafe86d97bb.js": "/thabataganga/idook.github.io/precache-manifest.257d9ffc1c6ccf1e25127aafe86d97bb.js",
     "service-worker.js": "/thabataganga/idook.github.io/service-worker.js",
     "static/css/2.5a510433.chunk.css.map": "/thabataganga/idook.github.io/static/css/2.5a510433.chunk.css.map",
     "static/css/main.06594ac6.chunk.css.map": "/thabataganga/idook.github.io/static/css/main.06594ac6.chunk.css.map",
-    "static/js/2.15b71d1f.chunk.js.LICENSE.txt": "/thabataganga/idook.github.io/static/js/2.15b71d1f.chunk.js.LICENSE.txt",
+    "static/js/2.930de5cf.chunk.js.LICENSE.txt": "/thabataganga/idook.github.io/static/js/2.930de5cf.chunk.js.LICENSE.txt",
     "static/media/aprendizagem-online.png": "/thabataganga/idook.github.io/static/media/aprendizagem-online.2f75e9b2.png",
     "static/media/bilhetes.png": "/thabataganga/idook.github.io/static/media/bilhetes.34cbd587.png",
     "static/media/consulting.png": "/thabataganga/idook.github.io/static/media/consulting.506058b3.png",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.ec21f395.js",
     "static/css/2.5a510433.chunk.css",
-    "static/js/2.15b71d1f.chunk.js",
+    "static/js/2.930de5cf.chunk.js",
     "static/css/main.06594ac6.chunk.css",
-    "static/js/main.09262c89.chunk.js"
+    "static/js/main.da6518a2.chunk.js"
   ]
 }
