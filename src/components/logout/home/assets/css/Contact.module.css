@@ -1,0 +1,55 @@
+ 
+.Container {
+  position: relative;  
+}
+
+/* Add some content at the bottom of the video/page */
+.Content {
+  color:#f1f1f1;
+  background-color: #702F88;
+  display: flex;
+  flex-wrap: wrap;
+}
+.SubContent {
+    padding: 5vw;
+  }
+
+.SubContent p {
+    color: #eeeeeead;
+    font-size: 1.6rem !important;
+}
+.SubContent h1 {
+
+  font-size: 3.0rem !important;
+}
+
+.iphone{
+  width: 80%;
+  display: block;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+
+
+@media only screen and (max-width: 1145px) {
+  .SubContent {
+    padding: 10vh;
+  }
+
+  .iphone{
+    width: 100%;
+    display: block;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    margin-left: 0vw;
+    margin-right: 0vw;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .SubContent {
+    padding: 4vh;
+  }
+}
