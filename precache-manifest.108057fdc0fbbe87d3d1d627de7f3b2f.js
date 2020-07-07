@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e151b20b0aa229562dc6f7ecad56f1f",
+    "revision": "1940d9cff66ac3bc7beb89d1538086f2",
     "url": "/idook.github.io/index.html"
   },
   {
