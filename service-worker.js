@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/idook.github.io/precache-manifest.0664e079827e3db7e68ac7fc552cbf7a.js"
+  "/idook.github.io/precache-manifest.b009b1dffbdfd4c0550ebf869c1792e8.js"
 );
 
 self.addEventListener('message', (event) => {
